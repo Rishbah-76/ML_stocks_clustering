@@ -2,7 +2,7 @@ import logging
 import os
 from pathlib import Path
 
-package_name = "stocksClustering"
+package_name = "MLstocksClustering"
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s: ')
 
