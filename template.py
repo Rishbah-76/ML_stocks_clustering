@@ -7,7 +7,7 @@ package_name = "MLstocksClustering"
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s: ')
 
 list_of_files = [
-    "data/.gitkeep",
+    #"data/.gitkeep",
     "templates/.gitkeep",
     "static/.gitkeep",
     "prediction_services/.gitkeep",
